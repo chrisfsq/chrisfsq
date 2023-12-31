@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Minhas skills atuais:</h3>
+<h3 align="center">Minhas skills atuais:</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Estudando sempre:</p>
+<p align="center">Estudando sempre:</p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Minhas redes:</p>
+<p align="center">Minhas redes:</p>
 
 ###
 
